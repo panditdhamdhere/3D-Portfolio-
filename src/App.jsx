@@ -19,6 +19,9 @@ const App = () => {
           <StarsCanvas />
         </div>
       </div>
+      <div>
+        <p>Pandit</p>
+      </div>
     </BrowserRouter>
   );
 };
